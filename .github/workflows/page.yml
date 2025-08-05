@@ -12,12 +12,10 @@ jobs:
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: Checkout repository (with submodules)
+      - name: Checkout code
         uses: actions/checkout@v3
         with:
-          submodules: recursive
-          fetch-depth: 0
-
+          submodules: false   # ← 明确禁用子模块
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
