@@ -14,16 +14,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          submodules: false   # ← 明确禁用子模块
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
           extended: true
-
-      - name: Debug - Check submodule contents
-        run: ls -R themes/reimu
 
       - name: Build Hugo site
         run: hugo --minify
