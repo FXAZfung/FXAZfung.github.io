@@ -42,7 +42,7 @@ CATTLE_NEW_SIGNED_CERT_EXPIRATION_DAYS=36500
     rke2 certificate check --output table
     ```
     
-    ![[Pasted image 20250717112143.png]]
+    
     
 3. 修改系统时间为 `2034-01-01 10:00:00`，执行：
     
@@ -53,11 +53,11 @@ CATTLE_NEW_SIGNED_CERT_EXPIRATION_DAYS=36500
     
     结果：集群运行正常，证书有效。
     
-    ![[Pasted image 20250717113123.png]]
+    
     
 4. 再次修改系统时间为 `2124-01-01 10:00:00`，执行相同命令后发现集群报错，提示证书已过期。
     
-    ![[Pasted image 20250717113412.png]]
+    
     
 
 ---
@@ -81,5 +81,3 @@ CATTLE_NEW_SIGNED_CERT_EXPIRATION_DAYS=36500
     
 - **若希望整个集群长期运行，仍需考虑如何延长或轮换 CA 根证书的有效期**，否则即便客户端证书有效期延长，也会因 CA 证书失效而失效。
     
-
----

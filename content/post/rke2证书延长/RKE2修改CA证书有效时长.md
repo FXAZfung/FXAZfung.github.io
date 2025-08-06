@@ -105,7 +105,8 @@ export PATH=/var/lib/rancher/rke2/bin:$PATH
 rke2 certificate check --output table
 ```
 
-![alt text](FXAZfung.github.io/static/images/Pasted image 20250722142609)
+
+
 
 ---
 
