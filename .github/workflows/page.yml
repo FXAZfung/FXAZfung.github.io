@@ -21,6 +21,16 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Convert Obsidian files to Hugo
+        run: |
+          if [ -d "./obsidian-vault/blog-posts" ]; then
+            echo "发现Obsidian文件，开始转换..."
+            chmod +x ./convert-obsidian-to-hugo.sh
+            ./convert-obsidian-to-hugo.sh
+          else
+            echo "未发现Obsidian文件，跳过转换步骤"
+          fi
+
       - name: Build Hugo site
         run: hugo --minify
 
