@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "post/测试/我喜欢你.md",
+                "file": "post/测试/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我喜欢你"
+              "title": "Untitled"
             }
           }
         ]
@@ -168,15 +168,21 @@
   },
   "active": "fbded6d3b24a0a8d",
   "lastOpenFiles": [
-    "post/测试/Pasted image 20250806102638.png",
-    "post/hello.md",
+    "post/_template.md",
+    "post/测试/Untitled.md",
     "post/测试/我喜欢你.md",
+    "post/测试/我真的喜欢你.md",
+    "post/测试/Pasted image 20250806102638.png",
+    "post/_index.md",
+    "post/测试/未命名.md",
+    "post/_template",
+    "post/_",
+    "post/hello.md",
     "post/rke2证书延长/RKE2修改客户端证书有效时长.md",
     "post/测试",
     "post/rke2证书延长/RKE2修改CA证书有效时长.md",
     "about.md",
     "friend.md",
-    "post/_index.md",
     "post/2025-4-5.md",
     "post/rke2证书延长/Pasted image 20250806102447.png",
     "post/rke2证书延长/Untitled.md",
