@@ -1,7 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>佛系阿宅的小站</title><link>https://fxazfung.github.io/</link><description>Recent content on 佛系阿宅的小站</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate><atom:link href="https://fxazfung.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://fxazfung.github.io/post/hello/</link><pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate><guid>https://fxazfung.github.io/post/hello/</guid><description>&lt;p>💘 博麗 霊夢 💘&lt;/p></description></item><item><title>关于</title><link>https://fxazfung.github.io/about/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://fxazfung.github.io/about/</guid><description>&lt;h2 id="只是一个用来记录的博客">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>佛系阿宅的小站</title><link>https://fxazfung.github.io/</link><description>Recent content on 佛系阿宅的小站</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Mon, 11 Aug 2025 15:15:21 +0800</lastBuildDate><atom:link href="https://fxazfung.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://fxazfung.github.io/about/</link><pubDate>Mon, 11 Aug 2025 15:15:21 +0800</pubDate><guid>https://fxazfung.github.io/about/</guid><description>&lt;h2 id="只是一个用来记录的博客">
 &lt;a class="header-anchor" href="#%e5%8f%aa%e6%98%af%e4%b8%80%e4%b8%aa%e7%94%a8%e6%9d%a5%e8%ae%b0%e5%bd%95%e7%9a%84%e5%8d%9a%e5%ae%a2">&lt;/a>
 只是一个用来记录的博客
-&lt;/h2></description></item><item><title>友情链接</title><link>https://fxazfung.github.io/friend/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://fxazfung.github.io/friend/</guid><description>&lt;h2 id="本站信息">
+&lt;/h2>&lt;h3 id="是一名双非大学-软件工程在读学生-目前在准备考研">
+&lt;a class="header-anchor" href="#%e6%98%af%e4%b8%80%e5%90%8d%e5%8f%8c%e9%9d%9e%e5%a4%a7%e5%ad%a6-%e8%bd%af%e4%bb%b6%e5%b7%a5%e7%a8%8b%e5%9c%a8%e8%af%bb%e5%ad%a6%e7%94%9f-%e7%9b%ae%e5%89%8d%e5%9c%a8%e5%87%86%e5%a4%87%e8%80%83%e7%a0%94">&lt;/a>
+是一名双非大学 软件工程在读学生 目前在准备考研
+&lt;/h3>&lt;h3 id="喜欢的东西">
+&lt;a class="header-anchor" href="#%e5%96%9c%e6%ac%a2%e7%9a%84%e4%b8%9c%e8%a5%bf">&lt;/a>
+喜欢的东西
+&lt;/h3>&lt;blockquote>
+&lt;p>音乐——包括但不限于吉他 钢琴 小提琴 交响乐 galgame配乐等等 会弹一点吉他 希望可以购买钢琴和小提琴玩（）
+&lt;!-- raw HTML omitted -->
+galgame——应该是key厨（被影响最深的是Clannad）同时还玩过枕社 柚子社 中二社等等 还有评分高的作品（是一名旮旯萌新）
+&lt;!-- raw HTML omitted -->
+计算机技术——目前是在做Go语言开发包括运维方面的东西，也会写一点前端，总体上只是一名普通萌新大学生，从大学才开始正式接触这些东西
+&lt;!-- raw HTML omitted -->
+体育运动——业余爱好喜欢打羽毛球和乒乓球 想玩骑行（）&lt;/p></description></item><item><title>Hello World</title><link>https://fxazfung.github.io/post/hello/</link><pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate><guid>https://fxazfung.github.io/post/hello/</guid><description>&lt;p>💘 博麗 霊夢 💘&lt;/p></description></item><item><title>友情链接</title><link>https://fxazfung.github.io/friend/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://fxazfung.github.io/friend/</guid><description>&lt;h2 id="本站信息">
 &lt;a class="header-anchor" href="#%e6%9c%ac%e7%ab%99%e4%bf%a1%e6%81%af">&lt;/a>
 本站信息
 &lt;/h2>&lt;ul>
@@ -50,7 +63,7 @@
  &lt;/div>
  &lt;/div>
  
-&lt;/div></description></item><item><title>RKE2修改CA证书有效时长</title><link>https://fxazfung.github.io/post/rke2%E8%AF%81%E4%B9%A6%E5%BB%B6%E9%95%BF/rke2%E4%BF%AE%E6%94%B9ca%E8%AF%81%E4%B9%A6%E6%9C%89%E6%95%88%E6%97%B6%E9%95%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fxazfung.github.io/post/rke2%E8%AF%81%E4%B9%A6%E5%BB%B6%E9%95%BF/rke2%E4%BF%AE%E6%94%B9ca%E8%AF%81%E4%B9%A6%E6%9C%89%E6%95%88%E6%97%B6%E9%95%BF/</guid><description>&lt;h2 id="-rke2-自定义证书有效期的编译与部署流程">
+&lt;/div></description></item><item><title/><link>https://fxazfung.github.io/post/%E8%80%83%E7%A0%94/%E8%80%83%E7%A0%94%E8%AE%A1%E5%88%92/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fxazfung.github.io/post/%E8%80%83%E7%A0%94/%E8%80%83%E7%A0%94%E8%AE%A1%E5%88%92/</guid><description/></item><item><title>RKE2修改CA证书有效时长</title><link>https://fxazfung.github.io/post/rke2%E8%AF%81%E4%B9%A6%E5%BB%B6%E9%95%BF/rke2%E4%BF%AE%E6%94%B9ca%E8%AF%81%E4%B9%A6%E6%9C%89%E6%95%88%E6%97%B6%E9%95%BF/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fxazfung.github.io/post/rke2%E8%AF%81%E4%B9%A6%E5%BB%B6%E9%95%BF/rke2%E4%BF%AE%E6%94%B9ca%E8%AF%81%E4%B9%A6%E6%9C%89%E6%95%88%E6%97%B6%E9%95%BF/</guid><description>&lt;h2 id="-rke2-自定义证书有效期的编译与部署流程">
 &lt;a class="header-anchor" href="#-rke2-%e8%87%aa%e5%ae%9a%e4%b9%89%e8%af%81%e4%b9%a6%e6%9c%89%e6%95%88%e6%9c%9f%e7%9a%84%e7%bc%96%e8%af%91%e4%b8%8e%e9%83%a8%e7%bd%b2%e6%b5%81%e7%a8%8b">&lt;/a>
 ✅ RKE2 自定义证书有效期的编译与部署流程
 &lt;/h2>&lt;h3 id="-背景说明">
