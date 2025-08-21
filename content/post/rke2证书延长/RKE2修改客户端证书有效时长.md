@@ -1,7 +1,6 @@
-
 ---
 title: 'RKE2修改客户端证书有效时长'
-date:'2025-08-01T15:02:19+08:00'
+date: '2025-08-01T15:02:19+08:00'
 ---
 
 通过查阅 [https://github.com/rancher/rke2/pull/4324](https://github.com/rancher/rke2/pull/4324) 可知，RKE2 官方已支持通过配置服务器端环境变量来自定义客户端证书的有效期。具体方法如下：
