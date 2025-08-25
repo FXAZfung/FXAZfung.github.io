@@ -313,11 +313,11 @@ gitalk:
 
 # https://giscus.app/zh-CN
 giscus:
-  enable: false
-  repo:
-  repoId:
-  category:
-  categoryId:
+  enable: true
+  repo: FXAZfung/giscus
+  repoId: R_kgDOPjuLTQ
+  category: General
+  categoryId: DIC_kwDOPjuLTc4CujyF
   mapping: mapping
   strict: 0
   reactionsEnabled: 1
