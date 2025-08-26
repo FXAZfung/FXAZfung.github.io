@@ -22,4 +22,23 @@ lastmod: 2025-08-11T15:15:21+08:00
 
 **联系我**
 
+- [📫邮箱](mailto:friend@fxaz.org)
+- [佛系阿宅zzz的个人空间-哔哩哔哩](https://b23.tv/1CUKsKR) 
 
+*玩过的galgame（包括动漫等等）*
+- 魔女的夜宴
+- 千恋万花
+- 星光咖啡馆于死神之蝶
+- 谜语小丑
+- 天使的纷扰
+- 想要传达给你的爱恋
+- 苍之彼方的四重奏
+- SummerPockets
+- AngelBeats
+- Clannad
+- Air
+- 悠久之翼
+- Eden
+- 美少女万华镜1
+- 猫娘乐园
+- 星空列车与白的旅行
