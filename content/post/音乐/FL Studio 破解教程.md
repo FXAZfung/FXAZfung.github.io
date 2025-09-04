@@ -10,7 +10,7 @@ draft: false
 
 1.  **获取文件**: 使用BT下载软件（如qBittorrent, uTorrent等）通过以下磁力链接下载所需文件：
     *   **磁力链接 (Magnet Link)**:
-		magnet:?xt=urn:btih:8406DDAE4B419A0C0C693DF88ADFCA15E3602C80&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2024.2.1%20Build%204526%20All%20Plugins%20Edition%20(x64)%20%2B%20FLEX%20Pack(incl.%20UVI%20Pack)%20%5B18.12.2024%2C%20Multi%2C%20NO%20RUS%5D%20(WD)%20REV.3
+		[磁力链接](magnet:?xt=urn:btih:8406DDAE4B419A0C0C693DF88ADFCA15E3602C80&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2024.2.1%20Build%204526%20All%20Plugins%20Edition%20(x64)%20%2B%20FLEX%20Pack(incl.%20UVI%20Pack)%20%5B18.12.2024%2C%20Multi%2C%20NO%20RUS%5D%20(WD)%20REV.3)
 2.  **关闭杀毒软件**: 为避免误报或文件被删除，请在安装前暂时关闭杀毒软件。
 
 ### 🛠️ 安装与破解步骤
